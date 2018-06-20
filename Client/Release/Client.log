@@ -1,0 +1,7 @@
+﻿  Client.cpp
+  ImgGet.cpp
+  main.cpp
+  moc_Client.cpp
+  qrc_Client.cpp
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  Client.vcxproj -> D:\vsproject\client\Client\Win32\Release\Client.exe
